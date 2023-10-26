@@ -14,7 +14,7 @@ engaging charts, offering actionable insights to enhance our data-driven invento
   },
   {
     title: "Research Analyst",
-    cardImage: "assets/images/experience-page/gsoc.png",
+    cardImage: "assets/images/etsuimage.png",
     place: "East Tennessee State University",
     time: "(Aug 2021 - Apr 2023)",
     desp: "<li>Conducted comprehensive analysis of student reports and research data utilizing advanced data analysis techniques and visualization tools, facilitating informed faculty decision-making.</li><li>Instructed and guided students in the proficient utilization of R, computer technology, statistics, and MATLAB software, elevating the learning experience and effectively managing assignment evaluations.</li><li></li>",
