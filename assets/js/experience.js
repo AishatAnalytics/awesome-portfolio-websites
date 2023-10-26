@@ -6,7 +6,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Data Scientist Intern",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
+    cardImage: "assets/images/hpimage.png",
     place: "HP inc",
     time: "(May, 2023 - present)",
     desp: "<li>Employed Time Series and Machine Learning methodologies to proficiently forecast Attainment Flash simulation and demand sales, resulting in a 90% accuracy rate to while creating an automated system for highly accurate sales demand prediction.</li> <li> Led the development of five scalable probabilistic models, utilizing hydraulic laws through Pyro and PyTorch.</li> <li>Developed three dynamic Power BI dashboards, effectively presenting sales demand outcomes through visually
