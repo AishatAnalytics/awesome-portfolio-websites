@@ -9,21 +9,24 @@ const exp = [
     cardImage: "assets/images/experience-page/flipkart.jpg",
     place: "HP inc",
     time: "(May, 2023 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    desp: "<li>Employed Time Series and Machine Learning methodologies to proficiently forecast Attainment Flash simulation and demand sales, resulting in a 90% accuracy rate to while creating an automated system for highly accurate sales demand prediction.</li> <li> Led the development of five scalable probabilistic models, utilizing hydraulic laws through Pyro and PyTorch.</li> <li>Developed three dynamic Power BI dashboards, effectively presenting sales demand outcomes through visually
+engaging charts, offering actionable insights to enhance our data-driven inventory optimization system.</li>",
   },
   {
     title: "Research Analyst",
     cardImage: "assets/images/experience-page/gsoc.png",
     place: "East Tennessee State University",
     time: "(Aug 2021 - Apr 2023)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    desp: "<li>Conducted comprehensive analysis of student reports and research data utilizing advanced data analysis techniques and visualization tools, facilitating informed faculty decision-making.</li><li>Instructed and guided students in the proficient utilization of R, computer technology, statistics, and MATLAB software, elevating the learning experience and effectively managing assignment evaluations.</li><li></li>",
   },
   {
     title: "Data Analyst",
     cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
     place: "Federal Character Commission",
     time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    desp: "<li>Developed a robust Natural Language Processing (NLP) model to extract essential information from resumes</li><li>Implemented a classification model that accurately ranked applicants according to their qualifications.
+• Successfully reduced manual effort in the initial screening process by 50%, improving recruitment process
+efficiency and resulting in faster candidate selection and reduced time-to-hire by 20%.</li>",
   },
 ];
 
