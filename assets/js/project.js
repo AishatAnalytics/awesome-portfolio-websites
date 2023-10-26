@@ -6,20 +6,20 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Quiz App",
+    title: "cardiovascular-projecct1",
     cardImage: "assets/images/project-page/quiz.jpg",
-    description: "A quiz app built using basic react.",
+    description: "A machine learning algorithm was used to deploy the best models for predicting cardiovascular disease, utilizing almost 12 features and the target variable.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "",
-    Githublink: "",
+    Previewlink: "cardiovascular disease project.ipynb",
+    Githublink: "https://github.com/AishatAnalytics/cardiovascular-projecct1/commit/9a97e0fe411e94016453f8bdf5549657ef9b068d#diff-d14897e4adeb4f919261dc95e4fc241b949a882342d220be8fd39db183a5e16a",
   },
   {
     title: "Chess Engine",
     cardImage: "assets/images/project-page/chess.jpg",
-    description: "A chess engine for a popular game dev engine.",
+    description: "systemic approach to analyzing credit card fraud",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
-    Previewlink: "",
-    Githublink: "",
+    Previewlink: "credit card fraud project.ipynb",
+    Githublink: "https://github.com/AishatAnalytics/credit-card-fraud-detection-project/commit/b1b4d3553602d2c4a820d7ac59d0fd50c5dedf3c",
   },
   {
     title: "Flappy Bird",
