@@ -21,7 +21,7 @@ engaging charts, offering actionable insights to enhance our data-driven invento
   },
   {
     title: "Data Analyst",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
+    cardImage: "assets/images/fccimage.jpeg",
     place: "Federal Character Commission",
     time: "(Dec, 19 - Jan, 20)",
     desp: "<li>Developed a robust Natural Language Processing (NLP) model to extract essential information from resumes</li><li>Implemented a classification model that accurately ranked applicants according to their qualifications.
